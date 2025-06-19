@@ -1,0 +1,35 @@
+﻿{
+  "name": "hr theme",
+  "dataColors": [
+    "16610E",
+    "F97A00",
+    "FED16A",
+    "FFF4A4"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#070f25",
+  "tableAccent": "#0F1934",
+  "textClasses": {
+    "label": { "fontSize": 15 },
+    "title": { "fontSize": 15 },
+    "header": { "fontSize": 15 }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "outspacePane": [
+          {
+            "backgroundColor": { "solid": { "color": "#A6BEB1" } },
+            "transparency": 20,
+            "titleSize": 14,
+            "headerSize": 12
+          }
+        ],
+        "filterCard": [
+          { "$id": "Applied", "textSize": 12 },
+          { "$id": "Available", "textSize": 12 }
+        ]
+      }
+    }
+  }
+}
