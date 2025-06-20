@@ -8,7 +8,7 @@ Analyzing Employee Key Performance factors and identifying factors affecting emp
 - Investigating Attrition Rate through the years and which factors affect attrition rate.
 
 
-##screenshots:
+## screenshots:
 
 ![hr 1](https://github.com/user-attachments/assets/9438b916-3e2d-4878-839c-cd4eabba7ffe)
 ![hr 2](https://github.com/user-attachments/assets/a51f6c4c-8d74-4268-bd19-969c90daef1b)
